@@ -10,7 +10,7 @@ Students can search for colleges, compare themselves to other students who have 
 
 ### Other projects
 
-You can find other projects I've worked on (here)[https://github.com/frpansbu]!
+You can find other projects I've worked on [here](https://github.com/frpansbu)!
 
 ### Thank You!
 
