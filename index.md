@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/frpansbu/frpansbu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Franky Pan, and I am a recent graduate from Stony Brook University! I am looking for new and exciting opportunites in software engineering and web development. You can reach me through [LinkedIn](https://www.linkedin.com/in/frpan/) or email (frpan814@gmail.com)! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [College 4 Me (c4me) Project](https://github.com/frpansbu/c4me-FASS)
 
-### Markdown
+My last year in college focused on web development and I've come to really enjoy it! My last semester involved working in a team of three others [Amta](https://www.linkedin.com/in/amta-sulaiman-983b0685), [Shawn](https://www.linkedin.com/in/shawnfelix) and [Sean](https://www.facebook.com/seancspencer).
+Simply put, it's a website that helps high school students look for colleges that are right for them using a filtering search system and recommendation score algorithm! 
+Students can search for colleges, compare themselves to other students who have applied, and look at in depth info on colleges. Check out the [repository](https://github.com/frpansbu/c4me-FASS) for more info, or click the heading to check it out yourself!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Other projects
 
-```markdown
-Syntax highlighted code block
+You can find other projects I've worked on (here)[https://github.com/frpansbu]!
 
-# Header 1
-## Header 2
-### Header 3
+### Thank You!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frpansbu/frpansbu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for checking out my GitHub Page, I really appreciate it! I look forward to updating it with more exciting endeavors! 
